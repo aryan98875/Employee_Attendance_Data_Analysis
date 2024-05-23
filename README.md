@@ -4,13 +4,13 @@ Excited to share insights from my recent #powerbi Employee Attendance Data Analy
 
 Here's a glimpse into the impactful work:
 
-🗒Topic:- Employee Attendance Data Analysis.
+🗒Topic      :- Employee Attendance Data Analysis.
 
-🗒Domain :Employee Attendance
+🗒Domain     :- Employee Attendance
 
-🗒Data set:- Employee Attendance Data
+🗒Data set   :- Employee Attendance Data
 
-🗒Tool Used:- Power BI , SQL
+🗒Tool Used  :- Power BI , SQL
 
 
 
