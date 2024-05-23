@@ -10,7 +10,7 @@ Here's a glimpse into the impactful work:
 
 🗒Data set:- Employee Attendance Data
 
-🗒Tool Used:- Power BI
+🗒Tool Used:- Power BI , SQL
 
 
 
